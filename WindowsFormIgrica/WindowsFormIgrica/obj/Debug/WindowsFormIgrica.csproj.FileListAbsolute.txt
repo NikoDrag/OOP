@@ -1,0 +1,10 @@
+C:\Users\Nikola.Milena-PC\source\repos\OOP-3.razred\2023.03.25\WindowsFormIgrica\WindowsFormIgrica\bin\Debug\WindowsFormIgrica.exe.config
+C:\Users\Nikola.Milena-PC\source\repos\OOP-3.razred\2023.03.25\WindowsFormIgrica\WindowsFormIgrica\bin\Debug\WindowsFormIgrica.exe
+C:\Users\Nikola.Milena-PC\source\repos\OOP-3.razred\2023.03.25\WindowsFormIgrica\WindowsFormIgrica\bin\Debug\WindowsFormIgrica.pdb
+C:\Users\Nikola.Milena-PC\source\repos\OOP-3.razred\2023.03.25\WindowsFormIgrica\WindowsFormIgrica\obj\Debug\WindowsFormIgrica.csprojAssemblyReference.cache
+C:\Users\Nikola.Milena-PC\source\repos\OOP-3.razred\2023.03.25\WindowsFormIgrica\WindowsFormIgrica\obj\Debug\WindowsFormIgrica.Form1.resources
+C:\Users\Nikola.Milena-PC\source\repos\OOP-3.razred\2023.03.25\WindowsFormIgrica\WindowsFormIgrica\obj\Debug\WindowsFormIgrica.Properties.Resources.resources
+C:\Users\Nikola.Milena-PC\source\repos\OOP-3.razred\2023.03.25\WindowsFormIgrica\WindowsFormIgrica\obj\Debug\WindowsFormIgrica.csproj.GenerateResource.cache
+C:\Users\Nikola.Milena-PC\source\repos\OOP-3.razred\2023.03.25\WindowsFormIgrica\WindowsFormIgrica\obj\Debug\WindowsFormIgrica.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Milena-PC\source\repos\OOP-3.razred\2023.03.25\WindowsFormIgrica\WindowsFormIgrica\obj\Debug\WindowsFormIgrica.exe
+C:\Users\Nikola.Milena-PC\source\repos\OOP-3.razred\2023.03.25\WindowsFormIgrica\WindowsFormIgrica\obj\Debug\WindowsFormIgrica.pdb
